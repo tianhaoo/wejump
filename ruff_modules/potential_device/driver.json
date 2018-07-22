@@ -1,0 +1,10 @@
+{
+    "models": [
+        "pd001"
+    ],
+    "inputs": {
+        "adc": {
+            "type": "adc"
+        }
+    }
+}

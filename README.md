@@ -1,1 +1,1 @@
-# wejump
+# Ruff Application

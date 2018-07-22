@@ -1,0 +1,15 @@
+{
+    "name": "wejump",
+    "version": "0.1.0",
+    "description": "wechat jump game's tag-on service",
+    "author": "tianhaoo",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "button-gpio": "^2.0.9",
+            "servo_sg90_driver": "^0.1.0",
+            "potential_device": "^0.1.0"
+        },
+        "version": 1
+    }
+}
